@@ -9,10 +9,10 @@ var topgg = {
             hits:'6955'
         },
         {
-            url: 'https://cpa4621.iqy24yt.com',
-            text: '私密直播',
+            url: 'https://a.yy678.info/?_c=xcs',
+            text: '甜心月亮',
             img: 'https://hd.cdn8-video.com/efwefw.gif',
-            description:'私密直播',
+            description:'甜心月亮',
             hits:'6955'
         },
         {
