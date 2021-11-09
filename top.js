@@ -5,73 +5,73 @@ var topgg = {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '草莓直播',
             img: 'https://hd.cdn8-video.com/01l8hkh.gif',
-            name:'new_1'
+          
         }, 
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '月亮直播',
             img: 'https://hd.cdn8-video.com/345675434.gif',
-            name:'new_8'
+            
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '番茄直播',
             img: 'https://hd.cdn8-video.com/metoo.webp',
-            name:'new_6'
+           
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: 'BB直播',
             img: 'https://image.wamd.xyz/wGPlwuna.gif',
-            name:'new_7'
+            
         },
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '私密直播',
             img: 'https://hd.cdn8-video.com/ouiytrewertyui.gif',
-            name:'new_1'
+            
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '妖女直播',
             img: 'https://i.loli.net/2021/09/27/LTKG1QwgoxB9cI7.gif',
-            name:'new_4'
+           
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '魅爱直播',
             img: 'https://hd.cdn8-video.com/x4.webp',
-            name:'new_3'
+            
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '蜻蜓直播',
             img: 'https://hd.cdn8-video.com/346fde.gif',
-            name:'new_6'
+            
         },  
         {
             url: 'https://xx.xc10.tv/?channelCode=yz18_2 ',
             text: '口爆中出',
             img: 'https://hd.cdn8-video.com/efwefw.gif',
-            name:'new_3'
+           
         },        
         {
             url: https://td1.yese3388.com/?channel=BNCW87',
             text: '春茶社区',
             img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
-            name:'new_3'
+           
         },  
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '母女齐上',
             img: 'https://hd.cdn8-video.com/fgh567.gif',
-            name:'new_1'
+           '
         },  
         {
             url: 'http://blwer05.com/?dc=bxza7605',
             text: '逼哩逼哩',
             img: 'https://rkbgtr.com:12299/images/bilibili.jpg',
-            name:'new_5'
+           
         },  
 
 
