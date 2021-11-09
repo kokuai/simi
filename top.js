@@ -1,66 +1,90 @@
-var topgg = {
-
+var topgg = {           
+            
        top1: [
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '草莓直播',
             img: 'https://hd.cdn8-video.com/01l8hkh.gif',
+            description:'草莓直播，美女直播应有尽有',   
+            hits:'6975'
         }, 
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '月亮直播',
             img: 'https://hd.cdn8-video.com/345675434.gif',
+            description:'月亮直播，美女直播应有尽有',   
+            hits:'5955'
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '番茄直播',
             img: 'https://hd.cdn8-video.com/metoo.webp',
+            description:'番茄直播，美女直播应有尽有',   
+            hits:'7955'
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: 'BB直播',
             img: 'https://image.wamd.xyz/wGPlwuna.gif',
+            description:'BB直播，美女直播应有尽有',   
+            hits:'88955'
         },
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '私密直播',
             img: 'https://hd.cdn8-video.com/ouiytrewertyui.gif',
+            description:'私密直播，美女直播应有尽有',   
+            hits:'22955'
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '妖女直播',
             img: 'https://i.loli.net/2021/09/27/LTKG1QwgoxB9cI7.gif',
+            description:'妖女直播，美女直播应有尽有',   
+            hits:'33955'
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '魅爱直播',
             img: 'https://hd.cdn8-video.com/x4.webp',
+            description:'母女齐上，美女直播应有尽有',   
+            hits:'6955'
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '蜻蜓直播',
             img: 'https://hd.cdn8-video.com/346fde.gif',
+            description:'母女齐上，美女直播应有尽有',   
+            hits:'69555'
         },  
         {
             url: 'https://xx.xc10.tv/?channelCode=yz18_2 ',
             text: '口爆中出',
             img: 'https://hd.cdn8-video.com/efwefw.gif',
+            description:'母女齐上，美女直播应有尽有',   
+            hits:'6955'
         },        
         {
             url: https://td1.yese3388.com/?channel=BNCW87',
             text: '春茶社区',
             img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
+            description:'母女齐上，美女直播应有尽有',   
+            hits:'63955'
         },  
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '母女齐上',
             img: 'https://hd.cdn8-video.com/fgh567.gif',
+            description:'母女齐上，美女直播应有尽有',   
+            hits:'69655'
            
         },  
         {
             url: 'http://blwer05.com/?dc=bxza7605',
             text: '逼哩逼哩',
             img: 'https://rkbgtr.com:12299/images/bilibili.jpg',
+            description:'逼哩逼哩，美女直播应有尽有',   
+            hits:'33955'
            
         },  
 
