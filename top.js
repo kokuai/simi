@@ -2,52 +2,141 @@ var topgg = {
 
     top1: [
         {
-            url: 'https://www.hdsko.com/136',
-            text: '青青草视频',
+            url: 'https://caomei75.cc/?channelCode=cm98',
+            text: '草莓直播',
             img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
             description:'绿帽淫妻，内射中出',
             hits:'6955'
         },
         {
-            url: 'https://a.yy678.info/?_c=xcs',
-            text: '甜心月亮',
+            url: 'https://gs778.vip/?channelCode=QD-11-34',
+            text: '趣播直播',
             img: 'https://hd.cdn8-video.com/efwefw.gif',
-            description:'甜心月亮',
+            description:'趣播直播',
             hits:'6955'
         },
         {
-            url: 'https://a.yy678.info/?_c=xcs',
-            text: 'YY视频',
+            url: 'https://fq9005.top/?channelCode=XS83',
+            text: '番茄直播',
             img: 'https://hd.cdn8-video.com/asfeytjuk.gif',
-            description:'YY视频，国产短视频应有尽有',
+            description:'趣播直播',
             hits:'6955'
         },
         {
-            url: 'http://blabc02.com/?dc=bxza7602',
-            text: '逼哩逼哩',
+            url: 'https://xx.xc10.tv/?channelCode=yz18_2',
+            text: '新茶直播',
             img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
-            description:'熟女少妇，探花视频',
+            description:'熟女少妇，探花直播',
             hits:'6955'
         },
         {
-            url: 'https://tm10ji.com/5mb3iP.html?code=8K7X3',
-            text: '春水堂',
+            url: 'https://td1.yese3388.com/?channel=BNCW87',
+            text: '春茶直播',
             img: 'https://hd.cdn8-video.com/sdgfdswe.gif',
             description:'啪啪视频，免费福利',
             hits:'6955'
         },
         {
-            url: 'https://mtav23.com?dc=ma294',
-            text: '蜜桃影像传媒',
-            img: 'https://hd.cdn8-video.com/asfashtrure.gif',
-            description:'无套内射诱惑做爱',
+            url: 'https://caomei75.cc/?channelCode=cm98',
+            text: '草莓直播',
+            img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
+            description:'绿帽淫妻，内射中出',
             hits:'6955'
         },
         {
-            url: 'https://web.jianzhifind.com/?channelCode=JY94',
-            text: '91视频',
-            img: 'https://hd.cdn8-video.com/gffjsdfgsj.gif',
-            description:'强奸乱伦丝袜诱惑',
+            url: 'https://gs778.vip/?channelCode=QD-11-34',
+            text: '趣播直播',
+            img: 'https://hd.cdn8-video.com/efwefw.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://fq9005.top/?channelCode=XS83',
+            text: '番茄直播',
+            img: 'https://hd.cdn8-video.com/asfeytjuk.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://xx.xc10.tv/?channelCode=yz18_2',
+            text: '新茶直播',
+            img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
+            description:'熟女少妇，探花直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://td1.yese3388.com/?channel=BNCW87',
+            text: '春茶直播',
+            img: 'https://hd.cdn8-video.com/sdgfdswe.gif',
+            description:'啪啪视频，免费福利',
+            hits:'6955'
+        },{
+            url: 'https://caomei75.cc/?channelCode=cm98',
+            text: '草莓直播',
+            img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
+            description:'绿帽淫妻，内射中出',
+            hits:'6955'
+        },
+        {
+            url: 'https://gs778.vip/?channelCode=QD-11-34',
+            text: '趣播直播',
+            img: 'https://hd.cdn8-video.com/efwefw.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://fq9005.top/?channelCode=XS83',
+            text: '番茄直播',
+            img: 'https://hd.cdn8-video.com/asfeytjuk.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://xx.xc10.tv/?channelCode=yz18_2',
+            text: '新茶直播',
+            img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
+            description:'熟女少妇，探花直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://td1.yese3388.com/?channel=BNCW87',
+            text: '春茶直播',
+            img: 'https://hd.cdn8-video.com/sdgfdswe.gif',
+            description:'啪啪视频，免费福利',
+            hits:'6955'
+        },{
+            url: 'https://caomei75.cc/?channelCode=cm98',
+            text: '草莓直播',
+            img: 'https://hd.cdn8-video.com/asdfghfdsa.gif',
+            description:'绿帽淫妻，内射中出',
+            hits:'6955'
+        },
+        {
+            url: 'https://gs778.vip/?channelCode=QD-11-34',
+            text: '趣播直播',
+            img: 'https://hd.cdn8-video.com/efwefw.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://fq9005.top/?channelCode=XS83',
+            text: '番茄直播',
+            img: 'https://hd.cdn8-video.com/asfeytjuk.gif',
+            description:'趣播直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://xx.xc10.tv/?channelCode=yz18_2',
+            text: '新茶直播',
+            img: 'https://hd.cdn8-video.com/dsfdafdh.gif',
+            description:'熟女少妇，探花直播',
+            hits:'6955'
+        },
+        {
+            url: 'https://td1.yese3388.com/?channel=BNCW87',
+            text: '春茶直播',
+            img: 'https://hd.cdn8-video.com/sdgfdswe.gif',
+            description:'啪啪视频，免费福利',
             hits:'6955'
         },
 
