@@ -5,61 +5,51 @@ var topgg = {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '草莓直播',
             img: 'https://hd.cdn8-video.com/01l8hkh.gif',
-          
         }, 
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '月亮直播',
             img: 'https://hd.cdn8-video.com/345675434.gif',
-            
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '番茄直播',
             img: 'https://hd.cdn8-video.com/metoo.webp',
-           
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: 'BB直播',
             img: 'https://image.wamd.xyz/wGPlwuna.gif',
-            
         },
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '私密直播',
             img: 'https://hd.cdn8-video.com/ouiytrewertyui.gif',
-            
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '妖女直播',
             img: 'https://i.loli.net/2021/09/27/LTKG1QwgoxB9cI7.gif',
-           
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
             text: '魅爱直播',
             img: 'https://hd.cdn8-video.com/x4.webp',
-            
         },
         {
             url: 'https://fq9023.cc/?channelCode=XS83',
             text: '蜻蜓直播',
             img: 'https://hd.cdn8-video.com/346fde.gif',
-            
         },  
         {
             url: 'https://xx.xc10.tv/?channelCode=yz18_2 ',
             text: '口爆中出',
             img: 'https://hd.cdn8-video.com/efwefw.gif',
-           
         },        
         {
             url: https://td1.yese3388.com/?channel=BNCW87',
             text: '春茶社区',
             img: 'https://hd.cdn8-video.com/shangmengyuepao.gif',
-           
         },  
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
