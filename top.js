@@ -16,10 +16,10 @@ var topgg = {
             hits:'5955'
         },
         {
-            url: 'https://fq9023.cc/?channelCode=XS83',
-            text: '番茄直播',
+            url: 'https://td1.yese3388.com/?channel=BNCW87',
+            text: '春茶直播',
             img: 'https://hd.cdn8-video.com/metoo.webp',
-            description:'番茄直播，美女直播应有尽有',   
+            description:'春茶直播，美女直播应有尽有',   
             hits:'7955'
         },
         {
