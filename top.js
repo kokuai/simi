@@ -8,6 +8,13 @@ var topgg = {
             description:'草莓直播，美女直播应有尽有',   
             hits:'6975'
         }, 
+         {
+            url: 'http://tui075.com/?channelCode=dai5',
+            text: '月亮直播',
+            img: 'https://hd.cdn8-video.com/01l8hkh.gif',
+            description:'月亮直播，美女直播应有尽有',   
+            hits:'6975'
+        },
         {
             url: 'https://gs778.vip/?channelCode=QD-11-34',
             text: '月亮直播',
