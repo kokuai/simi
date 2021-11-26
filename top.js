@@ -45,13 +45,6 @@ var topgg = {
         },
         {
             url: 'https://caomei75.cc/?channelCode=cm98',
-            text: '妖女直播',
-            img: 'https://i.loli.net/2021/09/27/LTKG1QwgoxB9cI7.gif',
-            description:'妖女直播，美女直播应有尽有',   
-            hits:'33955'
-        },
-        {
-            url: 'https://caomei75.cc/?channelCode=cm98',
             text: '魅爱直播',
             img: 'https://hd.cdn8-video.com/x4.webp',
             description:'母女齐上，美女直播应有尽有',   
